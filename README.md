@@ -19,6 +19,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidMonir&theme=react&layout=compact&hide_border=true&langs_count=8&hide=html,css" />
   </a>
 </div>
+<!--   <p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=voidMonir&theme=dark&hide_border=true" width = 400>
+</p> -->
 
 <!-- Here are some ideas to get you started:
 
