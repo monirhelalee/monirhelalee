@@ -24,6 +24,9 @@
   </a>
 </div>
 
+  <!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+<img src="https://activity-graph.herokuapp.com/graph?username=voidMonir&theme=github" alt="GitHub Activity Graph" width="100%" />
   
 <!--   <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=voidMonir&theme=dark&hide_border=true" width = 400>
