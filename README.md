@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Md. Monir Haider Helalee</h1>
 <h3><p align = "center"><em>Junior Flutter Developper @ <a href="https://www.ishraak.com/">Ishraak Solutions Limited</a><br>
-<!-- <h3><p align = "center">Mobile App Developer | Flutter</h3> <br> -->
+<h3><p align = "center">Flutter | Dart</h3> <br>
   <br>
 
 <!--
