@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Md. Monir Haider Helalee</h1>
-<h3><p align = "center"><em>Flutter Developper @ <a href="">AJ Associates</a><br>
+<h3><p align = "center"><em>Software Engineer @ <a href="https://nodesdigitalbd.com/">Nodes Digital Limited</a><br>
 <h3><p align = "center">Flutter | Dart</h3> <br>
   <br>
 
