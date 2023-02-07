@@ -2,16 +2,16 @@
 <h3><p align = "center"><em>Software Engineer @ <a href="https://nodesdigitalbd.com/">Nodes Digital Limited</a><br>
 <h3><p align = "center">Flutter | Dart</h3> <br>
   <br>
-
+<a href="https://github.com/voidMonir">
+    <img align="Center" src="https://www.solivatech.com/assets/uploads/media-uploader/flutter-app-development-company1623499975.jpg" height="360" width ="2060"/>
+ </a>
+<br><br>
 <!--
 **voidMonir/voidMonir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
    <!-- ###  Contribution Stats -->
   <div align="center" desplay="flex">
-<!--   <a href="https://github.com/voidMonir">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=voidMonir&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_border=true&&hide=stars,prs,contribs"/>
-  </a> -->
+
     <a href="https://github.com/voidMonir">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=voidMonir&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117"/>
   </a>
@@ -42,10 +42,6 @@
      
 </p>
   
-<!--   <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=voidMonir&theme=dark&hide_border=true" width = 400>
-</p> -->
-
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
