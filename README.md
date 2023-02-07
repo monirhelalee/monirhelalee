@@ -22,13 +22,11 @@
 </div>
 
   <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-<img src="https://activity-graph.herokuapp.com/graph?username=voidMonir&theme=github" alt="GitHub Activity Graph" width="100%" />
-<br>
-<br>
-### 🚀 Languages and Tools:
-<br>
-<p align="left"> 
+<!-- ### 📈 GitHub Activity Graph: -->
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=voidMonir&theme=github" alt="GitHub Activity Graph" width="100%" /> -->
+
+## 🚀 Languages and Tools:
+<p align="Center"> 
     <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png" title="Dart"/> </a>
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" width="43" height="43"/> </a>
@@ -38,13 +36,9 @@
      
 </p>
   
-<!-- Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+## 🔗 Connect with me:
+<p align="center">
+<a href = "https://www.linkedin.com/in/helalee/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href = "https://www.facebook.com/m.h.helalee" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href = "https://twitter.com/MonirHelale?t=O6eu4oKVw7JKZOSfBsTnfA&s=09" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</p>
