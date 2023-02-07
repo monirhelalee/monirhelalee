@@ -58,11 +58,19 @@
 ---
   
 ## 🔗 Connect with me:
-<p align="center">
-<a href = "https://www.linkedin.com/in/helalee/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href = "https://www.facebook.com/m.h.helalee" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href = "https://twitter.com/MonirHelale?t=O6eu4oKVw7JKZOSfBsTnfA&s=09" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</p>
+<p align='center'>
+<a href="mailto:mdmonirhelale@gmail.com">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/helalee/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+    <a href="https://twitter.com/MonirHelale">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/m.h.helalee">
+  <img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+</a>&nbsp;&nbsp;
         
 ---
 
