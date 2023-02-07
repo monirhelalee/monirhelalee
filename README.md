@@ -31,6 +31,19 @@
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=voidMonir&theme=github" alt="GitHub Activity Graph" width="100%" /> -->
 
 ---
+   
+<p align="center">
+  <table align="center">
+     <tr>
+       <td>
+        <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=voidMonir&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/></a>
+            </td>
+        </tr>
+   </table>
+</p>
+    
+---
     
 ## 🚀 Languages and Tools:
 <p align="Center"> 
