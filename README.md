@@ -88,3 +88,7 @@ eight="43"/>&nbsp;&nbsp;</a>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=voidMonir">&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://github.com/voidMonir?tab=followers"><img src="https://img.shields.io/github/followers/voidMonir?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
+        
+---
+        
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=voidMonir&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
