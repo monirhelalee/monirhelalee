@@ -57,6 +57,8 @@ height="43"/>&nbsp;&nbsp;</a>
     <a href="https://ubuntu.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" title="Ubuntu" width="43"
 height="43"/>&nbsp;&nbsp;</a>
     <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="Ubuntu" width="43"
+height="43"/>&nbsp;&nbsp;</a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" title="VS Code" width="43"
 </p>
         
 ---
