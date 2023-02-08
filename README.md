@@ -55,6 +55,8 @@
     <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" title="GitHub" width="43"
 height="43"/>&nbsp;&nbsp;</a>
     <a href="https://ubuntu.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" title="Ubuntu" width="43"
+height="43"/>&nbsp;&nbsp;</a>
+    <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="Ubuntu" width="43"
 </p>
         
 ---
