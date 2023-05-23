@@ -72,6 +72,7 @@ eight="43"/>&nbsp;&nbsp;</a>
     <a href="https://play.google.com/store/apps/details?id=com.martechhouse.salahbd" target="_blank"><img src="https://play-lh.googleusercontent.com/07fxFTaHE3m-2-4dAKJEDSCPvh770ZBJgDJO9B8ieYI0E-wjS_z_y7vFzLQxobBG4jA-=w240-h480-rw" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
     <a href="https://play.google.com/store/apps/details?id=com.amarischool.amarischool" target="_blank"><img src="https://play-lh.googleusercontent.com/DKcBAsQQBsu5TtL0vK9uJ-mPccsdvDlvzqJOfhssCPwCa4AwESPRlM0lxIxBp7lo7Q=s48-rw" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
     <a href="https://play.google.com/store/apps/details?id=org.rakhsaani.app" target="_blank"><img src="https://play-lh.googleusercontent.com/9BiAJdmRgWvbkZmDxp20FojPLHDOy0SyoJPPqYNoy4NcWMLVGCf2TuyKRW-aMr5xhrHs=w240-h480-rw" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a href="https://play.google.com/store/apps/details?id=com.ishraak.jobxprss" target="_blank"><img src="https://play-lh.googleusercontent.com/JDCXkDuZEqnm2kZgc_UGaUeMS9CXCWJY2RGr2obpW4e4GdctnA8aqzbh87os63-2codG=w240-h480-rw" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
       
 ---
