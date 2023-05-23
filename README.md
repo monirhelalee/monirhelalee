@@ -60,7 +60,9 @@ height="43"/>&nbsp;&nbsp;</a>
 height="43"/>&nbsp;&nbsp;</a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" title="VS Code" width="43"
 eight="43"/>&nbsp;&nbsp;</a>
-    <a href="https://developer.android.com/studio?gclid=CjwKCAiArY2fBhB9EiwAWqHK6n8jFWtpFQsmSJxKAeLWh1A9wvu_oulGl8q8gF0R_7o9woEFswuG8RoC4FgQAvD_BwE&gclsrc=aw.ds" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/android_studio/images/7e1c4157-703e-4a97-a776-96d407fc6580.svg" title="android studio" width="43" height="100%"
+    <a href="https://developer.android.com/studio?gclid=CjwKCAiArY2fBhB9EiwAWqHK6n8jFWtpFQsmSJxKAeLWh1A9wvu_oulGl8q8gF0R_7o9woEFswuG8RoC4FgQAvD_BwE&gclsrc=aw.ds" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/android_studio/images/7e1c4157-703e-4a97-a776-96d407fc6580.svg" title="Android Studio" width="43"
+height="43"/>&nbsp;&nbsp;</a>
+   
 </p>
         
 ---
