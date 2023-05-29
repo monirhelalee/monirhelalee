@@ -62,6 +62,8 @@
     <a href="https://docs.hivedb.dev/#/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/55202745?s=200&v=4" title="Hive" width="60" height="60"/>&nbsp;&nbsp;</a>
     <a href="https://developer.android.com/studio?gclid=CjwKCAiArY2fBhB9EiwAWqHK6n8jFWtpFQsmSJxKAeLWh1A9wvu_oulGl8q8gF0R_7o9woEFswuG8RoC4FgQAvD_BwE&gclsrc=aw.ds" target="_blank"> <img src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png" title="Android Studio" width="60" height="60"/>&nbsp;&nbsp;</a>
     <a href="https://developer.android.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-tile.svg" title="Android" width="60" height="60"/>&nbsp;&nbsp;</a>
+    <a href="https://play.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" title="google play" width="60" height="60"/>&nbsp;&nbsp;</a>
+    
    
 </p>
         
