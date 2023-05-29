@@ -47,13 +47,13 @@
     
 ## 🚀 Languages and Tools:
 <p align="Center"> 
-    <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png" title="Dart" width="60" height="60"/> </a>
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter" width="60" height="60"/> </a> 
+    <a href="https://dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" title="Dart" width="60" height="60"/> </a>
+    <a href="https://flutter.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" title="Flutter" width="60" height="60"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" width="60" height="60"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="60" height="60"/>&nbsp;</a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" width="60" height="60"/>&nbsp;&nbsp;</a>
     <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" title="GitHub" width="60" height="60"/>&nbsp;&nbsp;</a>
-    <a href="https://gitlab.com/voidMonir" target="_blank"> <img src="https://gitlab.com/assets/logo-911de323fa0def29aaf817fca33916653fc92f3ff31647ac41d2c39bbe243edb.svg" title="GitLab" width="60" height="60"/>&nbsp;&nbsp;</a>
+    <a href="https://gitlab.com/voidMonir" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" title="GitLab" width="60" height="60"/>&nbsp;&nbsp;</a>
     <a href="https://ubuntu.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" title="Ubuntu" width="60" height="60"/>&nbsp;&nbsp;</a>
     <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="Sqflite" width="60" height="60"/>&nbsp;&nbsp;</a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" title="VS Code" width="60" height="60"/>&nbsp;&nbsp;</a>
@@ -63,6 +63,7 @@
     <a href="https://developer.android.com/studio?gclid=CjwKCAiArY2fBhB9EiwAWqHK6n8jFWtpFQsmSJxKAeLWh1A9wvu_oulGl8q8gF0R_7o9woEFswuG8RoC4FgQAvD_BwE&gclsrc=aw.ds" target="_blank"> <img src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png" title="Android Studio" width="60" height="60"/>&nbsp;&nbsp;</a>
     <a href="https://developer.android.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-tile.svg" title="Android" width="60" height="60"/>&nbsp;&nbsp;</a>
     <a href="https://play.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" title="google play" width="60" height="60"/>&nbsp;&nbsp;</a>
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" title="Linux" width="100" height="60"/>&nbsp;&nbsp;</a>
     
    
 </p>
