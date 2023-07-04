@@ -106,6 +106,17 @@
 <a href="https://github.com/voidMonir?tab=followers"><img src="https://img.shields.io/github/followers/voidMonir?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
         
----
+<!-- ---
         
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=voidMonir&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=voidMonir&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
+
+---
+
+## ❤️ Problem solve
+![LeetCode Stats](https://leetcard.jacoblin.cool/monir006?theme=nord)
+<br>
+  <a href="https://leetcode.com/monir006/">
+    <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
+  </a>
+
+---
