@@ -70,9 +70,10 @@
         
 ---
         
-## 👨‍💻 Worked on Application which in Play Store
+## 👨‍💻 Worked on Application in Play Store
 <br/>
 <p align="center">
+    <a href="https://play.google.com/store/apps/details?id=com.nodesdigitalbd.agritech" target="_blank"><img src="https://play-lh.googleusercontent.com/3XT_DS-LGgsjm7_O-4-YzytGPehnkdZJ1Q1YFYNUurSMJomUz-2QglIL4lXkcv7wETQ=w240-h480-rw" title="e=irrigation / AgriTech" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
     <a href="https://play.google.com/store/apps/details?id=com.nodesdigitalbd.orcamarine" target="_blank"><img src="https://play-lh.googleusercontent.com/peKaWiLMPyQrbMeSKhYX7Y23hxwFaNwA7-0fJz7iJcTQZ3oXnHfLMPNGb_lUUpE1kfw5=w240-h480-rw" title="Orca Marine" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
     <a href="https://play.google.com/store/apps/details?id=com.martechhouse.salahbd" target="_blank"><img src="https://play-lh.googleusercontent.com/07fxFTaHE3m-2-4dAKJEDSCPvh770ZBJgDJO9B8ieYI0E-wjS_z_y7vFzLQxobBG4jA-=w240-h480-rw" title="Islamic App" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
     <a href="https://play.google.com/store/apps/details?id=com.amarischool.amarischool" target="_blank"><img src="https://play-lh.googleusercontent.com/DKcBAsQQBsu5TtL0vK9uJ-mPccsdvDlvzqJOfhssCPwCa4AwESPRlM0lxIxBp7lo7Q=s48-rw" title="Amar iSchool" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
