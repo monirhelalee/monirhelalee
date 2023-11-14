@@ -70,15 +70,16 @@
         
 ---
         
-## 👨‍💻 Worked on Application in Play Store
+## 👨‍💻 Worked on Application in the Play Store
 <br/>
 <p align="center">
+    <a href="https://play.google.com/store/apps/details?id=org.wetelly.wetelly" target="_blank"><img src="https://play-lh.googleusercontent.com/BcVtmhXzsFik9R-J3qwa58M67U0NLWeQARURpDxzfzUlXoAswCR2GPewXaig9B6biA=w240-h480-rw" title="We Telly-BD" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
     <a href="https://play.google.com/store/apps/details?id=com.nodesdigitalbd.agritech" target="_blank"><img src="https://play-lh.googleusercontent.com/3XT_DS-LGgsjm7_O-4-YzytGPehnkdZJ1Q1YFYNUurSMJomUz-2QglIL4lXkcv7wETQ=w240-h480-rw" title="e-irrigation / AgriTech" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
     <a href="https://play.google.com/store/apps/details?id=com.nodesdigitalbd.orcamarine" target="_blank"><img src="https://play-lh.googleusercontent.com/peKaWiLMPyQrbMeSKhYX7Y23hxwFaNwA7-0fJz7iJcTQZ3oXnHfLMPNGb_lUUpE1kfw5=w240-h480-rw" title="Orca Marine" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
     <a href="https://play.google.com/store/apps/details?id=com.martechhouse.salahbd" target="_blank"><img src="https://play-lh.googleusercontent.com/07fxFTaHE3m-2-4dAKJEDSCPvh770ZBJgDJO9B8ieYI0E-wjS_z_y7vFzLQxobBG4jA-=w240-h480-rw" title="Islamic App" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
     <a href="https://play.google.com/store/apps/details?id=com.amarischool.amarischool" target="_blank"><img src="https://play-lh.googleusercontent.com/DKcBAsQQBsu5TtL0vK9uJ-mPccsdvDlvzqJOfhssCPwCa4AwESPRlM0lxIxBp7lo7Q=s48-rw" title="Amar iSchool" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
     <a href="https://play.google.com/store/apps/details?id=org.rakhsaani.app" target="_blank"><img src="https://play-lh.googleusercontent.com/9BiAJdmRgWvbkZmDxp20FojPLHDOy0SyoJPPqYNoy4NcWMLVGCf2TuyKRW-aMr5xhrHs=w240-h480-rw" title="Rakhsaani" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://play.google.com/store/apps/details?id=com.ishraak.jobxprss" target="_blank"><img src="https://play-lh.googleusercontent.com/JDCXkDuZEqnm2kZgc_UGaUeMS9CXCWJY2RGr2obpW4e4GdctnA8aqzbh87os63-2codG=w240-h480-rw" title="Jobxprss" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a href="https://play.google.com/store/apps/details?id=com.ishraak.jobxprss" target="_blank"><img src="https://play-lh.googleusercontent.com/JDCXkDuZEqnm2kZgc_UGaUeMS9CXCWJY2RGr2obpW4e4GdctnA8aqzbh87os63-2codG=w240-h480-rw" title="Jobxprss" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>   
 </p>
       
 ---
