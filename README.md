@@ -59,6 +59,12 @@
     <a href="https://pub.dev/packages/get" target="_blank"> <img src="https://camo.githubusercontent.com/b42b0ca23488815405c583d15997b128baeee60e6820958fec514175adfdcd0d/68747470733a2f2f696d67312e6461756d63646e2e6e65742f7468756d622f523132383078302f3f73636f64653d6d746973746f72793226666e616d653d6874747073253341253246253246626c6f672e6b616b616f63646e2e6e6574253246646e25324665713167555325324662747272666f4267414473253246674c54356c5377727a586b64787642727332655a5531253246696d672e706e67" title="GetX" width="80" height="60"/>&nbsp;&nbsp;</a>
     <a href="https://docs.hivedb.dev/#/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/55202745?s=200&v=4" title="Hive" width="60" height="60"/>&nbsp;&nbsp;</a>
     <a href="https://developer.android.com/studio?gclid=CjwKCAiArY2fBhB9EiwAWqHK6n8jFWtpFQsmSJxKAeLWh1A9wvu_oulGl8q8gF0R_7o9woEFswuG8RoC4FgQAvD_BwE&gclsrc=aw.ds" target="_blank"> <img src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png" title="Android Studio" width="60" height="60"/>&nbsp;&nbsp;</a>
+</p>
+
+---
+    
+## 📦 Store:
+<p align="Center"> 
     <a href="https://play.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" title="google play" width="60" height="60"/>&nbsp;&nbsp;</a>
     <a href="https://www.apple.com/app-store/" target="_blank"> <img src="https://www.apple.com/v/app-store/b/images/overview/icon_appstore__ev0z770zyxoy_medium.png" title="App Store" width="60" height="60"/>&nbsp;&nbsp;</a>
 </p>
