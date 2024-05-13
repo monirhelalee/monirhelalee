@@ -150,3 +150,7 @@
   </a>
 
 ---
+
+<a href="https://app.daily.dev/monir006"><img src="https://api.daily.dev/devcards/v2/U8UeL0oTfGE59f6HgQWvM.png?type=wide&r=ma9" width="652" alt="Monir's Dev Card"/></a>
+
+---
